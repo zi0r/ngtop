@@ -1,6 +1,6 @@
 module github.com/facundoolano/ngtop
 
-go 1.22.4
+go 1.22
 
 require github.com/alecthomas/kong v0.9.0
 
